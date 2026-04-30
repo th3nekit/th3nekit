@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&duration=3000&pause=1000&color=7C5CFC&center=true&vCenter=true&random=false&width=500&lines=привет%2C+я+th3nekit;hello%2C+i'm+th3nekit" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=7C5CFC&height=150&section=header&text=th3nekit&fontSize=40&fontColor=e4e4ef&fontAlignY=55&animation=fadeIn" width="100%" />
 
 <br/>
 
