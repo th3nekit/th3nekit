@@ -14,7 +14,7 @@
 
 ---
 
-### 🛠 Стек / Stack
+### 🛠 Stack
 
 <div align="center">
 
@@ -39,23 +39,23 @@
 
 ---
 
-### 📂 Проекты / Projects
+### 📂 Projects
 
-| | Проект | Описание | Стек |
+| | Project | Description | Stack |
 |---|---|---|---|
-| 👑 | [**PcControl**](https://github.com/Th3Nekit/pc-control-telegram) | Удалённое управление ПК из Telegram | `Python` `aiogram 3` |
-| 📱 | [**Th3ProxyTools**](https://github.com/Th3Nekit/Th3ProxyTools) | Плагин для exteraGram — массовый пинг прокси | `Java/Python` `exteraGram` |
-| 📶 | [**Socks5Hotspot**](https://github.com/Th3Nekit/Socks5Hotspot) | Раздача Wi-Fi через SOCKS5 на Windows | `PowerShell` `sing-box` |
-| 🖼️ | [**PinterestSaver**](https://github.com/Th3Nekit/PinterestSaver) | Скачивание пинов в лучшем качестве | `Python` `Flet` |
+| 👑 | [**PcControl**](https://github.com/Th3Nekit/pc-control-telegram) | Remote PC control via Telegram | `Python` `aiogram 3` |
+| 📱 | [**Th3ProxyTools**](https://github.com/Th3Nekit/Th3ProxyTools) | exteraGram plugin — mass proxy ping | `Java/Python` `exteraGram` |
+| 📶 | [**Socks5Hotspot**](https://github.com/Th3Nekit/Socks5Hotspot) | Share Wi-Fi hotspot via SOCKS5 | `PowerShell` `sing-box` |
+| 🖼️ | [**PinterestSaver**](https://github.com/Th3Nekit/PinterestSaver) | Batch Pinterest pin downloader | `Python` `Flet` |
 
 ---
 
-### 🖥 Инфраструктура / Infrastructure
+### 🖥 Infrastructure
 
 ```
-🇷🇺 Санкт-Петербург #1  ─  VPN-бот, подписки, NAT-форвардинг     (beget.com)
-🇩🇪 Германия            ─  Основной VPS, 3x-ui, веб-бэкенд       (play2go.cloud)
-🇷🇺 Санкт-Петербург #2  ─  Резервная нода, готова к переключению  (sprinthost.ru)
+🇷🇺 Saint Petersburg #1  ─  VPN bot, subscriptions, NAT forwarding    (beget.com)
+🇩🇪 Germany              ─  Main VPS, 3x-ui, web backend            (play2go.cloud)
+🇷🇺 Saint Petersburg #2  ─  Backup node, ready for DNS failover     (sprinthost.ru)
 ```
 
 ---
@@ -74,10 +74,10 @@
 <div align="center">
 
 ```
-2023  👑 PcControl — с него всё началось
-2024  📚 Автоматизация, CTF, первые серьёзные скрипты
-2025  💬 Th3Cord — свой мессенджер со звонками и видео
-2026  🔧 3 сервера в проде, VPN-сервис, full-stack
+2023  👑 PcControl — where it all started
+2024  📚 Automation, CTF, first real scripts
+2025  💬 Th3Cord — custom messenger with calls & video
+2026  🔧 3 servers in prod, VPN service, full-stack
 ```
 
 <br/>
