@@ -9,6 +9,7 @@
 [![Website](https://img.shields.io/badge/th3web.ru-portfolio-7C5CFC?style=for-the-badge&logo=google-chrome&logoColor=white)](https://th3web.ru/author/)
 [![Telegram](https://img.shields.io/badge/@th3nekit-telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/th3nekit)
 [![Spotify](https://img.shields.io/badge/spotify-profile-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31cpmx7kalltfi2ol7xlccdbsdc24)
+[![Donate](https://img.shields.io/badge/DonationAlerts-support-E4405F?style=for-the-badge&logo=donationalerts&logoColor=white)](https://www.donationalerts.com/c/th3_nekit)
 
 </div>
 
@@ -64,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Th3Nekit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7C5CFC&icon_color=a78bfa&text_color=e4e4ef" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Th3Nekit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7C5CFC&icon_color=a78bfa&text_color=e4e4ef&cache_seconds=1800&count_private=true" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Nekit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7C5CFC&text_color=e4e4ef" height="165" />
 
 </div>
