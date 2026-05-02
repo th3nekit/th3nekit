@@ -65,7 +65,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Th3Nekit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7C5CFC&icon_color=a78bfa&text_color=e4e4ef&cache_seconds=1800&count_private=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=Th3Nekit&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7C5CFC&icon_color=a78bfa&text_color=e4e4ef&cache_seconds=7200" height="165" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Th3Nekit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=7C5CFC&text_color=e4e4ef" height="165" />
 
 </div>
