@@ -27,6 +27,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat-square&logo=jetpackcompose&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![nginx](https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white)
@@ -41,6 +44,20 @@
 ---
 
 ### 📂 Projects
+
+<div align="center">
+
+#### ⭐ Lean — Android VPN client
+
+My own client over a **sing-box** fork — **AmneziaWG** + DPI bypass, subscription & `.conf` import,
+auto-fastest server, ping checks, dark / AMOLED themes. Signed release built in CI.
+
+`Kotlin` · `Jetpack Compose` · `sing-box` · `AmneziaWG`
+
+[![Download APK](https://img.shields.io/badge/Download_APK-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://github.com/Th3Nekit/Lean/releases/latest)
+[![Source](https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Th3Nekit/Lean)
+
+</div>
 
 | | Project | Description | Stack |
 |---|---|---|---|
@@ -78,7 +95,7 @@
 2023  👑 PcControl — where it all started
 2024  📚 Automation, CTF, first real scripts
 2025  💬 Th3Cord — custom messenger with calls & video
-2026  🔧 3 servers in prod, VPN service, full-stack
+2026  📱 Lean — own Android VPN client · 3 servers in prod · full-stack
 ```
 
 <br/>
